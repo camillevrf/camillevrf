@@ -9,7 +9,7 @@ Tenho 22 anos, sou uma profissional de TI dedicada às áreas de infraestrutura,
 
 
 
-## 🚀 Minhas Habilidades
+##  Minhas Habilidades
 
 <table align="center">
   <tr>
