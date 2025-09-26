@@ -7,63 +7,44 @@ Oi, sou a Vitória Camille Ramos Ferreira 👋
 
 Tenho 22 anos, sou uma profissional de TI dedicada às áreas de infraestrutura, monitoramento e segurança da informação. Graduanda em Tecnologia da Informação e Comunicação e com formação técnica em Informática , possuo uma base sólida em programação com experiência em Java, Python e C , além de conhecimentos em banco de dados SQL.
 
-## Minhas Habilidades
-
-Aqui estão algumas das tecnologias e frameworks com os quais trabalho:
-
-<table>
-<tr> 
-<td valign="top" width="50%">
-<h3>🛡️ Segurança da Informação & Governança</h3>
-<ul>
-<li>ISO 27001 / ISO 27002 / ISO 3100 </li>
-
-<li>Fortinet (Certificação FCA) </li>
-
-<li>Gestão de Riscos de SI </li>
 
 
+## 🚀 Minhas Habilidades
 
-
-</ul>
-</td>
-<td valign="top" width="50%">
-<h3>📊 Monitoramento & Observabilidade</h3>
-<ul>
-<li>Zabbix </li>
-
-<li>Grafana </li>
-
-<li>Graylog / Prometheus </li>
-
-
-</ul>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<h3>⚙️ Infraestrutura & Redes</h3>
-<ul>
-<li>Administração Linux </li>
-
-<li>Windows Server </li>
-
-<li>Redes TCP/IP </li>
-
-<li>Git / GitLab </li>
-
-
-</ul>
-</td>
-<td valign="top" width="50%">
-<h3>💻 Linguagens & Banco de Dados</h3>
-<ul>
-<li>Java / Python / C </li>
-
-<li>SQL / MariaDB </li>
-
-
-</ul>
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h3>🔒 Segurança</h3>
+      <img src="https://img.icons8.com/color/48/000000/security-checked.png" width="40"/>
+      <br>
+      <small>ISO 27001/27002</small><br>
+      <small>Fortinet FCA</small><br>
+      <small>Gestão de Riscos</small>
+    </td>
+    <td align="center" width="200">
+      <h3>📊 Monitoramento</h3>
+      <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40"/>
+      <br>
+      <small>Zabbix</small><br>
+      <small>Grafana</small><br>
+      <small>Graylog/Prometheus</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🖥️ Infraestrutura</h3>
+      <img src="https://img.icons8.com/color/48/000000/server.png" width="40"/>
+      <br>
+      <small>Linux/Windows</small><br>
+      <small>TCP/IP</small><br>
+      <small>Git/GitLab</small>
+    </td>
+    <td align="center" width="200">
+      <h3>💻 Desenvolvimento</h3>
+      <img src="https://img.icons8.com/color/48/000000/code.png" width="40"/>
+      <br>
+      <small>Java/Python/C</small><br>
+      <small>SQL/MariaDB</small>
+    </td>
+  </tr>
 </table>
